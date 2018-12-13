@@ -1,0 +1,127 @@
+#premiere {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+#deuxieme {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+#troisieme {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+#quatrieme {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+#total {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.case {
+    width: 350px;
+    height: 250px;
+}
+
+#brad {
+    background-color: #34ce57;
+    color: white;
+}
+
+#dley {
+    background-color: #34ce57;
+    color: white;
+}
+
+#blog {
+    background-color: #34ce57;
+    color: white;
+}
+
+#profile {
+    background-color: #e0a800;
+    color: white;
+}
+
+#ex {
+    background-color: #005cbf;
+    color: white;
+}
+
+#contact {
+    background-color: #005cbf;
+    color: white;
+}
+
+#socilMenu {
+    background-color: #fd7e14;
+    color: white;
+}
+
+#port {
+    background-color: #fd7e14;
+    color: white;
+}
+
+#education {
+    background-color: #c82333;
+    color: white;
+}
+
+#ima {
+    width: 52.75vh;
+    height: 80vh;
+}
+
+#plus {
+    width: 50px;
+
+}
+
+#moins {
+    width: 50px;
+
+}
+
+#resum {
+    border: white solid;
+}
+
+#contac {
+    border: white solid;
+}
+
+@media only screen and (max-width: 840px) {
+    img {
+        width: 65px;
+        height: 65px;
+    }
+
+    body {
+        width: 100%;
+        height: 100%;
+    }
+
+    h1 {
+        font-size: 16px;
+    }
+
+    .case {
+        width: 21.87vw;
+        height: 31.68vh;
+    }
+}
+
