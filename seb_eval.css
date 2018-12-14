@@ -22,63 +22,81 @@
 #quatrieme {
     display: flex;
     flex-direction: column;
-    height: 100%;
+
 }
 
 #total {
     display: flex;
     flex-direction: row;
-
 }
 
 .case {
-    width: 350px;
-    height: 250px;
+    width: 21.875vw;
+    height: 31.75vh;
+
 }
 
 #brad {
     background-color: #34ce57;
     color: white;
+    line-height: 31.75vh;
+    text-align: center;
 }
 
 #dley {
     background-color: #34ce57;
     color: white;
+    line-height: 31.75vh;
+    text-align: center;
 }
 
 #blog {
     background-color: #34ce57;
     color: white;
+    line-height: 31.75vh;
+    text-align: center;
 }
 
 #profile {
     background-color: #e0a800;
     color: white;
+    line-height: 31.75vh;
+    text-align: center;
 }
 
 #ex {
     background-color: #005cbf;
     color: white;
+    line-height: 31.75vh;
+    text-align: center;
 }
 
 #contact {
     background-color: #005cbf;
     color: white;
+    line-height: 31.75vh;
+    text-align: center;
 }
 
 #socilMenu {
     background-color: #fd7e14;
     color: white;
+    line-height: 31.75vh;
+    text-align: center;
 }
 
 #port {
     background-color: #fd7e14;
     color: white;
+    line-height: 31.75vh;
+    text-align: center;
 }
 
 #education {
     background-color: #c82333;
     color: white;
+    line-height: 31.75vh;
+    text-align: center;
 }
 
 #ima {
@@ -87,12 +105,12 @@
 }
 
 #plus {
-    width: 50px;
+    width: 3.125vw;
 
 }
 
 #moins {
-    width: 50px;
+    width: 3.125vw;
 
 }
 
@@ -106,8 +124,8 @@
 
 @media only screen and (max-width: 840px) {
     img {
-        width: 65px;
-        height: 65px;
+        width: 3.125vw;
+        height: 2.85vh;
     }
 
     body {
